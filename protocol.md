@@ -4,16 +4,16 @@ NOTE: Most of this is from [https://nicotine-plus.org/doc/SLSKPROTOCOL.html](her
 
 ## Important commands
 ### Getting File Shares
-[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#peer-code-4](GetShareFileList)
-[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#peer-code-5](SharedFileListResponse)
+[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#peer-code-4]()
+[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#peer-code-5]()
 
 ### File Searching
-[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#peer-code-9](FileSearchResponse)
-[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#server-code-42](UserSearch)
-[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#server-code-26](FileSearch)
+[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#peer-code-9]()
+[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#server-code-42]()
+[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#server-code-26]()
 
 ### Peer Init Messages
-[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#peer-init-messages](Peer init messages)
+[https://nicotine-plus.org/doc/SLSKPROTOCOL.html#peer-init-messages]()
 
 ## Packing
 ### 8-bit int
